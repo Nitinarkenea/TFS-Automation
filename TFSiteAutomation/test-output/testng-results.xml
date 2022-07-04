@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="15" passed="15" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[First product selected from ThirdParty Figure]]>
+    </line>
+    <line>
+      <![CDATA[Second product selected from Japanese]]>
+    </line>
+    <line>
+      <![CDATA[Third product selected from HasBro]]>
+    </line>
+    <line>
+      <![CDATA[Fifth product selected from Exclusive]]>
+    </line>
+    <line>
+      <![CDATA[Sixth product selected from Sale]]>
+    </line>
+    <line>
+      <![CDATA[Added all items into Cart]]>
+    </line>
+    <line>
+      <![CDATA[Choose Shiping option-All items to my stack]]>
+    </line>
+    <line>
+      <![CDATA[Logout Successfully]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2022-07-04T18:10:13 IST" name="Suite" finished-at="2022-07-04T18:16:46 IST" duration-ms="393431">
+    <groups>
+    </groups>
+    <test started-at="2022-07-04T18:10:13 IST" name="Test" finished-at="2022-07-04T18:16:46 IST" duration-ms="393431">
+      <class name="testjava.DashboardPageTest">
+        <test-method is-config="true" signature="initializingWeb()[pri:0, instance:testjava.DashboardPageTest@327af41b]" started-at="2022-07-04T18:10:07 IST" name="initializingWeb" finished-at="2022-07-04T18:10:13 IST" duration-ms="5739" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializingWeb -->
+        <test-method is-config="true" signature="allPageObject()[pri:0, instance:testjava.DashboardPageTest@327af41b]" started-at="2022-07-04T18:10:13 IST" name="allPageObject" finished-at="2022-07-04T18:10:13 IST" duration-ms="92" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- allPageObject -->
+        <test-method signature="verifyDashBoardTest()[pri:-3, instance:testjava.DashboardPageTest@327af41b]" started-at="2022-07-04T18:10:13 IST" name="verifyDashBoardTest" finished-at="2022-07-04T18:11:21 IST" duration-ms="68671" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[First product selected from ThirdParty Figure]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyDashBoardTest -->
+        <test-method is-config="true" signature="allPageObject()[pri:0, instance:testjava.DashboardPageTest@327af41b]" started-at="2022-07-04T18:11:22 IST" name="allPageObject" finished-at="2022-07-04T18:11:22 IST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- allPageObject -->
+        <test-method signature="verifyJapanese()[pri:-2, instance:testjava.DashboardPageTest@327af41b]" started-at="2022-07-04T18:11:22 IST" name="verifyJapanese" finished-at="2022-07-04T18:12:17 IST" duration-ms="55892" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Second product selected from Japanese]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyJapanese -->
+        <test-method is-config="true" signature="allPageObject()[pri:0, instance:testjava.DashboardPageTest@327af41b]" started-at="2022-07-04T18:12:17 IST" name="allPageObject" finished-at="2022-07-04T18:12:17 IST" duration-ms="21" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- allPageObject -->
+        <test-method signature="verifyHasBroProduct()[pri:-1, instance:testjava.DashboardPageTest@327af41b]" started-at="2022-07-04T18:12:17 IST" name="verifyHasBroProduct" finished-at="2022-07-04T18:13:02 IST" duration-ms="44779" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Third product selected from HasBro]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyHasBroProduct -->
+        <test-method is-config="true" signature="allPageObject()[pri:0, instance:testjava.DashboardPageTest@327af41b]" started-at="2022-07-04T18:13:02 IST" name="allPageObject" finished-at="2022-07-04T18:13:02 IST" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- allPageObject -->
+        <test-method signature="verifyExclusivesProduct()[pri:1, instance:testjava.DashboardPageTest@327af41b]" started-at="2022-07-04T18:13:02 IST" name="verifyExclusivesProduct" finished-at="2022-07-04T18:13:45 IST" duration-ms="42922" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Fifth product selected from Exclusive]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyExclusivesProduct -->
+        <test-method is-config="true" signature="allPageObject()[pri:0, instance:testjava.DashboardPageTest@327af41b]" started-at="2022-07-04T18:13:45 IST" name="allPageObject" finished-at="2022-07-04T18:13:45 IST" duration-ms="23" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- allPageObject -->
+        <test-method signature="verifySaleProduct()[pri:2, instance:testjava.DashboardPageTest@327af41b]" started-at="2022-07-04T18:13:45 IST" name="verifySaleProduct" finished-at="2022-07-04T18:14:26 IST" duration-ms="40731" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Sixth product selected from Sale]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifySaleProduct -->
+        <test-method is-config="true" signature="allPageObject()[pri:0, instance:testjava.DashboardPageTest@327af41b]" started-at="2022-07-04T18:14:26 IST" name="allPageObject" finished-at="2022-07-04T18:14:26 IST" duration-ms="16" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- allPageObject -->
+        <test-method signature="verifyCheckOut()[pri:3, instance:testjava.DashboardPageTest@327af41b]" started-at="2022-07-04T18:14:26 IST" name="verifyCheckOut" finished-at="2022-07-04T18:14:30 IST" duration-ms="4469" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Added all items into Cart]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyCheckOut -->
+        <test-method is-config="true" signature="allPageObject()[pri:0, instance:testjava.DashboardPageTest@327af41b]" started-at="2022-07-04T18:14:30 IST" name="allPageObject" finished-at="2022-07-04T18:14:30 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- allPageObject -->
+        <test-method signature="verifychooseShippingOption()[pri:4, instance:testjava.DashboardPageTest@327af41b]" started-at="2022-07-04T18:14:30 IST" name="verifychooseShippingOption" finished-at="2022-07-04T18:14:43 IST" duration-ms="12173" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Choose Shiping option-All items to my stack]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifychooseShippingOption -->
+        <test-method is-config="true" signature="allPageObject()[pri:0, instance:testjava.DashboardPageTest@327af41b]" started-at="2022-07-04T18:14:43 IST" name="allPageObject" finished-at="2022-07-04T18:14:43 IST" duration-ms="13" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- allPageObject -->
+        <test-method signature="verifyPaymentOption()[pri:5, instance:testjava.DashboardPageTest@327af41b]" started-at="2022-07-04T18:14:43 IST" name="verifyPaymentOption" finished-at="2022-07-04T18:14:49 IST" duration-ms="6598" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPaymentOption -->
+        <test-method is-config="true" signature="allPageObject()[pri:0, instance:testjava.DashboardPageTest@327af41b]" started-at="2022-07-04T18:14:49 IST" name="allPageObject" finished-at="2022-07-04T18:14:49 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- allPageObject -->
+        <test-method signature="verifyOrder()[pri:6, instance:testjava.DashboardPageTest@327af41b]" started-at="2022-07-04T18:14:49 IST" name="verifyOrder" finished-at="2022-07-04T18:14:53 IST" duration-ms="4226" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyOrder -->
+        <test-method is-config="true" signature="allPageObject()[pri:0, instance:testjava.DashboardPageTest@327af41b]" started-at="2022-07-04T18:14:53 IST" name="allPageObject" finished-at="2022-07-04T18:14:53 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- allPageObject -->
+        <test-method signature="verifyingShipngAddress()[pri:7, instance:testjava.DashboardPageTest@327af41b]" started-at="2022-07-04T18:14:53 IST" name="verifyingShipngAddress" finished-at="2022-07-04T18:15:22 IST" duration-ms="28262" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyingShipngAddress -->
+        <test-method is-config="true" signature="allPageObject()[pri:0, instance:testjava.DashboardPageTest@327af41b]" started-at="2022-07-04T18:15:22 IST" name="allPageObject" finished-at="2022-07-04T18:15:22 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- allPageObject -->
+        <test-method signature="verifyProductSelection()[pri:8, instance:testjava.DashboardPageTest@327af41b]" started-at="2022-07-04T18:15:22 IST" name="verifyProductSelection" finished-at="2022-07-04T18:15:33 IST" duration-ms="11475" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyProductSelection -->
+        <test-method is-config="true" signature="allPageObject()[pri:0, instance:testjava.DashboardPageTest@327af41b]" started-at="2022-07-04T18:15:33 IST" name="allPageObject" finished-at="2022-07-04T18:15:33 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- allPageObject -->
+        <test-method signature="verifyingPlaceOder()[pri:9, instance:testjava.DashboardPageTest@327af41b]" started-at="2022-07-04T18:15:33 IST" name="verifyingPlaceOder" finished-at="2022-07-04T18:15:51 IST" duration-ms="17532" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyingPlaceOder -->
+        <test-method is-config="true" signature="allPageObject()[pri:0, instance:testjava.DashboardPageTest@327af41b]" started-at="2022-07-04T18:15:51 IST" name="allPageObject" finished-at="2022-07-04T18:15:51 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- allPageObject -->
+        <test-method signature="verifyOrderDetails()[pri:10, instance:testjava.DashboardPageTest@327af41b]" started-at="2022-07-04T18:15:51 IST" name="verifyOrderDetails" finished-at="2022-07-04T18:15:53 IST" duration-ms="2703" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyOrderDetails -->
+        <test-method is-config="true" signature="allPageObject()[pri:0, instance:testjava.DashboardPageTest@327af41b]" started-at="2022-07-04T18:15:53 IST" name="allPageObject" finished-at="2022-07-04T18:15:53 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- allPageObject -->
+        <test-method signature="verifyproductSelection()[pri:11, instance:testjava.DashboardPageTest@327af41b]" started-at="2022-07-04T18:15:53 IST" name="verifyproductSelection" finished-at="2022-07-04T18:16:42 IST" duration-ms="48313" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyproductSelection -->
+        <test-method is-config="true" signature="allPageObject()[pri:0, instance:testjava.DashboardPageTest@327af41b]" started-at="2022-07-04T18:16:42 IST" name="allPageObject" finished-at="2022-07-04T18:16:42 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- allPageObject -->
+        <test-method signature="logout()[pri:13, instance:testjava.DashboardPageTest@327af41b]" started-at="2022-07-04T18:16:42 IST" name="logout" finished-at="2022-07-04T18:16:46 IST" duration-ms="4291" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Logout Successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="tearDowmBrowser()[pri:0, instance:testjava.DashboardPageTest@327af41b]" started-at="2022-07-04T18:16:47 IST" name="tearDowmBrowser" finished-at="2022-07-04T18:16:49 IST" duration-ms="2611" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDowmBrowser -->
+      </class> <!-- testjava.DashboardPageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
